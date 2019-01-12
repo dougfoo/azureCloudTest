@@ -6,5 +6,7 @@
 <meta charset="ISO-8859-1">
 <title>Insert title here</title>
 </head>
-<body><b><% out.println("Hello World Boo!"); %></b></body>
+<body><b><% out.println("Hello World !"); %></b>
+Can I integrate this with React.js ... 
+</body>
 </html>
